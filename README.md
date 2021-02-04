@@ -1,0 +1,1 @@
+Run `go run .` and `go test`.
